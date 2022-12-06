@@ -1,0 +1,35 @@
+fieldset{
+       /* border: blue dotted 2px; */
+    border-radius: 10px 5px;
+    /* background-color: bisque; */
+    width: 700px;
+    margin: auto;
+}
+
+legend {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+tr td:first-child{
+    font-family: Arial;
+    font-size: 12px;
+}
+
+tr td:last-child{
+    font-family: Arial;
+    font-size: 12px;
+    color: red;
+}
+
+#profm{
+    display: none;
+}
+
+#etdc{
+    display: none;
+}
+
+
+
